@@ -25,7 +25,7 @@
 
         const phrases=[
             new Phrase("Hands Down"),
-            new Phrase("There’s no I in team"),
+            new Phrase("Going bananas"),
             new Phrase("Jumping the gun"),
             new Phrase("A piece of cake"),
             new Phrase("Driving me nuts")
